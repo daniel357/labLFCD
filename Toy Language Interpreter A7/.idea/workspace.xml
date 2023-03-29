@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8af1a886-0edc-45f8-a473-3a0449439f4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../2sem/algo/lab2_3_4/.idea/lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/algo/lab5_clique/.idea/lab5_clique.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/algo/lab5_p1/.idea/lab5_p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/dsa/lab2_6/.idea/lab2_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/dsa/lab3_13/.idea/lab3_13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/dsa/lab3_multimap/.idea/lab3_multimap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/dsa/lab_4/.idea/lab_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/dsa/lab_5/.idea/lab_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/.idea/oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/11-12/.idea/11-12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/2_test_Znaceni_Daniel/.idea/2_test_Znaceni_Daniel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/MedicalDisorders/.idea/MedicalDisorders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/SearchEngine/.idea/search_engine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/Znaceniexamen/.idea/Znaceniexamen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/bachelor_theses/.idea/bachelor_theses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/dog_shelterQT/.idea/dog_shelterQT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/ethnographic_park/.idea/ethnographic_park.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/examen_practic/.idea/examen_practic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/lab14/.idea/lab14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/lab_5-6/.idea/oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/simulare_romana_216/.idea/simulare_romana_216.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/task_manager/.idea/task_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/task_manager_no_model/.idea/task_manager_no_model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/taskmanager/.idea/taskmanager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/test2/.idea/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/test2_buildings/.idea/test2_buildings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/test_917_1/.idea/test_917_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/test_applience/.idea/test_applience.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/test_car/.idea/test_car.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/test_hospital/.idea/test_hospital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/test_real_estate/.idea/test_real_estate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/ulab11_12/.idea/ulab11_12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/weather/.idea/weather.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/writing_exam_preparation/adder/.idea/adder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/writing_exam_preparation/q_and_a/.idea/q_and_a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/writing_exam_preparation/screenwriting/.idea/screenwriting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/writing_exam_preparation/screenwriting_2/.idea/screenwriting_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/oop/znaceni_test/.idea/znaceni_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2sem/verificari/.idea/verificari.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flow_free/.idea/flow_free.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab14/.idea/a14-dany002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../os/exam/.idea/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../os/threads/pass_arguments/.idea/pass_arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/computer_networks/clienttest/.idea/clienttest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/computer_networks/clienttest/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/computer_networks/servertest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/computer_networks/servertest/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/computer_networks/servertest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/computer_networks/servertest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/computer_networks/servertest/.idea/servertest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/computer_networks/servertest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/computer_networks/servertest/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/Assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Exception/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/AssignStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/BoolType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/BoolValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/CompoundStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/IStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/IntType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/IntValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/LogicalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/NopStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/PrintStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/ProgramState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/ValueExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/VarExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/Assignment2/src/Model/VariableDeclarationStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/ToyLanguageInterpreter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/exceptions/ADTException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/exceptions/ExpressionEvaluationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/exceptions/StatementExecutionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/exceptions/ToyLanguageError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/ProgramState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/adt/IDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/adt/IHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/adt/IList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/adt/IStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/adt/MyDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/adt/MyHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/adt/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/adt/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/expressions/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/expressions/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/expressions/LogicExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/expressions/ReadHeapExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/expressions/RelationalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/expressions/ValueExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/expressions/VariableExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/AssignStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/CloseReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/CompoundStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/IStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/NewStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/NopStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/OpenReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/PrintStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/VariableDeclarationStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/WhileStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/statements/WriteHeapStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/types/BoolType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/types/IntType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/types/RefType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/types/StringType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/types/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/value/BoolValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/value/IntValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/value/RefValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/value/StringValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/model/value/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/repository/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/view/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/view/ExitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/view/Interpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/view/RunExampleCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/view/TextMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/src/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/ToyLanguageInterpreter/test.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/exceptions/InterpreterException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/gui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/gui/ProgramChooserController.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/gui/ProgramChooserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/gui/ProgramExecutorController.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/gui/ProgramExecutorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/gui/button_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/expression/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/expression/IExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/expression/LogicExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/expression/ReadHeapExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/expression/RelationalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/expression/ValueExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/expression/VariableExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/programState/ProgramState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/AssignStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/CloseReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/CompoundStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/ForkStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/IStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/NewStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/NopStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/OpenReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/PrintStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/VariableDeclarationStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/WhileStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/statement/WriteHeapStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/type/BoolType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/type/IntType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/type/RefType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/type/StringType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/type/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/utils/MyDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/utils/MyHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/utils/MyIDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/utils/MyIHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/utils/MyIList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/utils/MyIStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/utils/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/utils/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/value/BoolValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/value/IntValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/value/RefValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/value/StringValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/model/value/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/repository/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/view/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/view/ExitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/view/Interpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/view/RunExampleCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/a7/src/view/TextMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/acvariu/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/acvariu/acvariu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/acvariu/src/Controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/acvariu/src/Exceptions/AnimalExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/acvariu/src/Model/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/acvariu/src/Model/IAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/acvariu/src/Model/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/acvariu/src/Repository/Irepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/acvariu/src/Repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/exceptions/ADTException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/exceptions/ExpressionEvaluationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/exceptions/StatementExecutionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/exceptions/ToyLanguageError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/ProgramState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/adt/IDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/adt/IHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/adt/IList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/adt/IStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/adt/MyDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/adt/MyHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/adt/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/adt/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/expressions/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/expressions/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/expressions/LogicExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/expressions/ReadHeapExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/expressions/RelationalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/expressions/ValueExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/expressions/VariableExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/AssignStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/CloseReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/CompoundStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/ForkStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/IStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/NewStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/NopStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/OpenReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/PrintStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/VariableDeclarationStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/WhileStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/statements/WriteHeapStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/types/BoolType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/types/IntType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/types/RefType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/types/StringType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/types/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/value/BoolValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/value/IntValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/value/RefValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/value/StringValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/model/value/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/repository/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/view/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/view/ExitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/view/Interpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/view/RunExampleCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/view/TextMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/assignment5/src/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/first_project/first_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/first_project/src/DerivedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/first_project/src/base_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/src/Controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/src/Model/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/src/Model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/src/Model/IVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/src/Repository/Irepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/src/Repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/java/lab2/src/View/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/l1pr3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/l1pr3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/l1pr3/.idea/l1pr3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/l1pr3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/l1pr3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/l1pr3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/l1pr3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/lab1pr3/.idea/lab1pr3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/lab1pr3/lista.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem3/programare logica si functionala/lab1pr3/lista.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solved_problems/algorithms/dijkstra/.idea/dijkstra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t2-lavinia06-1-main/.idea/t2-lavinia06-1-main.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KUqSvtcDGkRRbvYufRdp7SaCcH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Toy Language Interpreter A7&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af1a886-0edc-45f8-a473-3a0449439f4f" name="Changes" comment="" />
+      <created>1674039512193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674039512193</updated>
+      <workItem from="1674039513420" duration="1320000" />
+      <workItem from="1674043393103" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
